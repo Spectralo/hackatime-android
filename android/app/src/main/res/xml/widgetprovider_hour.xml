@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="180dp"
+    android:minHeight="120dp"
+    android:targetCellWidth="3"
+    android:targetCellHeight="2"
+
+
+
+    android:resizeMode="none"
+
+    android:description="@string/widget_hour_description"
+
+    android:initialLayout="@layout/rn_widget"
+    android:previewImage="@drawable/hour_preview"
+
+
+
+    android:updatePeriodMillis="1800000"
+    android:widgetCategory="home_screen">
+</appwidget-provider>
