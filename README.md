@@ -2,6 +2,8 @@
 
 # Hackatime Android
 
+![highseasbadge](https://img.shields.io/badge/made%20for%20high%20seas-FEC2FB?style=for-the-badge&logo=hackclub&logoColor=1C4188)
+
 *Note : This app isnt intended to track your time on android, just to display some stats from hackatime*
 
 This is a simple android app that displays your stats from [hackatime](https://waka.hackclub.com/).

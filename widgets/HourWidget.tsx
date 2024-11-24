@@ -1,7 +1,11 @@
 import React from "react";
 import { FlexWidget, TextWidget } from "react-native-android-widget";
 
-export default function HourWidget() {
+interface HourWidgetProps {
+  hour: string;
+}
+
+const HourWidget: React.FC<HourWidgetProps> = ({ hour }) => {
   return (
     <FlexWidget
       style={{
@@ -22,11 +26,13 @@ export default function HourWidget() {
         }}
       />
       <TextWidget
-        text="01:02"
+        text={hour + "h"}
         style={{
           fontSize: 64,
         }}
       />
     </FlexWidget>
   );
-}
+};
+
+export default HourWidget;
