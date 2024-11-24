@@ -27,6 +27,7 @@ import * as NavigationBar from "expo-navigation-bar";
 import { useAtom } from "jotai";
 NavigationBar.setPositionAsync("absolute");
 NavigationBar.setBackgroundColorAsync("#ffffff01");
+import { StatusBar } from "expo-status-bar";
 
 // Atoms yay!
 import { authAtom, loading } from "@/atoms/auth";
@@ -78,6 +79,7 @@ export default function Index() {
 
   return (
     <PaperProvider theme={paperTheme}>
+      <StatusBar backgroundColor={paperTheme.colors.background} />
       <NavigationContainer independent={true} theme={navTheme}>
         <Stack.Navigator screenOptions={{ headerShown: false }}>
           {IsLoading ? (
