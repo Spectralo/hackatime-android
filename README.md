@@ -1,4 +1,4 @@
-
+![icon copy](https://github.com/user-attachments/assets/b78e351a-6109-4edf-b6fe-44ee08cc2061)
 
 # Hackatime Android
 
@@ -35,3 +35,23 @@ Or if you're concerned about your privacyk, just build from source.
 
 
 ## Screenshots 👀
+ 
+Here's some screenshots ✨
+
+<table>
+  <tr>
+    <td><img src="https://cloud-6q9iakwjy-hack-club-bot.vercel.app/0screenshot_20241124-135501_lawnchair.png" alt="Screenshot 1" width="200" style="margin: 10px;" /></td>
+    <td><img src="https://cloud-6q9iakwjy-hack-club-bot.vercel.app/1screenshot_20241124-135539_hackatime-android.png" alt="Screenshot 2" width="200" style="margin: 10px;" /></td>
+    <td><img src="https://cloud-6q9iakwjy-hack-club-bot.vercel.app/2screenshot_20241124-135556_hackatime-android.png" alt="Screenshot 3" width="200" style="margin: 10px;" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cloud-6q9iakwjy-hack-club-bot.vercel.app/3screenshot_20241124-135550_hackatime-android.png" alt="Screenshot 4" width="200" style="margin: 10px;" /></td>
+    <td><img src="https://cloud-6q9iakwjy-hack-club-bot.vercel.app/4screenshot_20241124-135516_hackatime-android.png" alt="Screenshot 5" width="200" style="margin: 10px;" /></td>
+    <td><img src="https://cloud-6q9iakwjy-hack-club-bot.vercel.app/5screenshot_20241124-135520_hackatime-android.png" alt="Screenshot 6" width="200" style="margin: 10px;" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cloud-6q9iakwjy-hack-club-bot.vercel.app/6screenshot_20241124-135524_hackatime-android.png" alt="Screenshot 7" width="200" style="margin: 10px;" /></td>
+    <td><img src="https://cloud-6q9iakwjy-hack-club-bot.vercel.app/7screenshot_20241124-135531_hackatime-android.png" alt="Screenshot 8" width="200" style="margin: 10px;" /></td>
+    <td><img src="https://cloud-5u0lsapl4-hack-club-bot.vercel.app/0screenshot_20241124-135901_hackatime-android.png" alt="Screenshot 9" width="200" style="margin: 10px;"/></td>
+  </tr>
+</table>
